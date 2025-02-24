@@ -13,6 +13,8 @@ public class Collections
         Exa1.add("Lumel");
         Exa1.add("hello");
         Exa1.add(true);
+        Exa1.add(false);
+        Exa1.add("Gokulan");
         //Inserting and Printing the data
         Exa1.add(3,99);
         System.out.println("Print the data :" + Exa1);
@@ -45,5 +47,7 @@ public class Collections
         mymap.put(001, "Tamil");
         System.out.println();
         System.out.println(mymap);
+
+
     }
 }
