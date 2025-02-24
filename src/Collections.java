@@ -43,11 +43,7 @@ public class Collections
         mymap.put(101, "agileshh");
         mymap.put(101, "agileshh");//Does not allow duplicate keyword but allow duplicate value
         mymap.put(001, "Tamil");
-        System.out.println()
-
-
-
-
-
+        System.out.println();
+        System.out.println(mymap);
     }
 }
